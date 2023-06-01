@@ -1,0 +1,41 @@
+*{
+    color: white;
+}
+body{
+    background-color: black;
+}
+#cabecalho{
+    background-color: black;
+}
+.title-style{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.title-style:hover{
+    color: white;
+}
+#menu-navegacao ul li {
+    list-style: none;
+}
+#menu-navegacao ul li a.active{
+    background-color: #0D6EFD;
+}
+.navbar-toggler {
+    background-color: #ffeae6;
+}
+.carousel-inner img{
+    height: 400px;
+    width: 100%;
+}
+.title-style2{
+    font-family: 'Poppins', sans-serif;
+}
+#filme-cartaz h4{
+    color: #0D6EFD;
+}
+#comida img{
+    height: 135px;
+}
+.text-style{
+    color: #0D6EFD;
+}
