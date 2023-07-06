@@ -23,8 +23,11 @@ Link so site: https://cinema-bootstrap.vercel.app/</li>
 # 🎨 Pré-visualização :
 ## Apresentação da Página:
 <img  src="midia.readme/1.png">
+<br>
 <img  src="midia.readme/2.png">
+<br>
 <img  src="midia.readme/3.png">
+<br>
 <img  src="midia.readme/4.png">
 
 # 🦸 Autor:
